@@ -1,5 +1,5 @@
-streamlit
+streamlit>=1.39.0
+torch
 speechrecognition
 gTTS
-pydub
-torch
+pyydub
